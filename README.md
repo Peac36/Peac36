@@ -5,7 +5,6 @@ The techonlogies that I use  daily:
 * Laravel
 * Symfony
 * VueJs
-* Angular
 * AWS
 * Linux
 * Docker
