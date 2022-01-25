@@ -1,10 +1,13 @@
 👋 my name is Nikola, currently working for the awesome companies [in-house-team](https://in-houseteam.com/)/[2create](https://2create.io/).
 
-The techonlogies that I use  daily: 
+The technologies that I use daily: 
 
+* PHP
+* JavaScript
 * Laravel
 * Symfony
 * VueJs
+* Angular
 * AWS
 * Linux
 * Docker
