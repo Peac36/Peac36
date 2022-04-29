@@ -1,4 +1,4 @@
-👋 my name is Nikola, currently working for the awesome companies [in-house-team](https://in-houseteam.com/)/[2create](https://2create.io/).
+Hi there,my name is Nikola, currently working for the awesome company [AMPECO](https://www.ampeco.com/)
 
 The technologies that I use daily: 
 
